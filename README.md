@@ -9,7 +9,7 @@
 * [Model Training Steps](#model-training-steps)
 
 ## General info
-Effective Date parser is a natural languaage processing based project. In this project we need to extract effective date from contracts. To solve this problem I have used QuestionAnsweringModel of Simple Transformers https://simpletransformers.ai/
+Effective Date parser is a natural languaage processing based project. In this project we need to extract effective date from contracts. To solve this problem I have used QuestionAnsweringModel https://simpletransformers.ai/docs/qa-model/ of Simple Transformers https://simpletransformers.ai/
 
 ## Data Sources 
 https://drive.google.com/file/d/10j02yfn14_p3E67yEhb5EIAb4kRrumU8/view?usp=sharing
