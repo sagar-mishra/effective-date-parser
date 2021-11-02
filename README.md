@@ -32,5 +32,5 @@ Effective Date parser is a natural languaage processing based project. In this p
 * Update configurations like directory paths and model details in config.py
 * Create data which can be passed to QuestionAnsweringModel by running python file util/data_creator.py
 * Train model over google colab using notebooks/training.ipynb
-* Post processed model predictions to generate final output
+* Post process model predictions to generate final output
 
