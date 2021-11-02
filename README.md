@@ -13,6 +13,7 @@ Effective Date parser is a natural languaage processing based project. In this p
 ## Technologies
 * Python
 * PyTorch
+* Deep learning
 * SimpleTransformers
 
 ## Setup
