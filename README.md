@@ -23,7 +23,7 @@ https://drive.google.com/file/d/10j02yfn14_p3E67yEhb5EIAb4kRrumU8/view?usp=shari
 ## Setup
 
 ### Installation 
-* pip install requirements.txt
+* pip install -r requirements.txt
 
 ## Directory structure
 * config.py : contains all the configurations, you need to change directory paths and model_name and model_type if you wants to.
